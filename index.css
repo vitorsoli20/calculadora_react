@@ -1,0 +1,45 @@
+
+.visor{
+  height:100px;
+  width: 100%;
+  font-size: 48pt;
+}
+button {
+  height: 100px;
+  width: 100px;
+  
+}
+
+.container_calculadora{
+  height: 1280px;
+  width: 720px;
+  background-color: #1d3557;
+}
+
+.numeros {
+  background-color: #457b9d;
+  height: 200px;
+  width: 200px;
+  color:white
+}
+
+.simbolos{
+background-color: #e63946;
+height:200px;
+width: 200px;
+color: white;
+
+}
+.btn
+{
+  font-size: 30pt;
+}
+
+.igual
+{
+  width: 98%;
+  height:150px;
+  background-color: black ;
+  color: white;
+}
+
